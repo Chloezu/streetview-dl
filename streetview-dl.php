@@ -41,7 +41,7 @@ echo("done\n");
 
 function resizeEqui($pathSrc, $pathDst, $width) {
 	$height = $width / 2;
-	exec("convert \"".$pathSrc."\" -resize ".$width."x".$height." -quality 100 \"".$pathDst."\"");
+	exec("magick \"".$pathSrc."\" -resize ".$width."x".$height." -quality 100 \"".$pathDst."\"");
 }
 
 function getIdFromUrl($url) {
