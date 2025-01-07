@@ -28,6 +28,8 @@ e.g:
 
 "montage-im6.q16: cache resources exhausted " can be resolved changing ImageMagick configuration, more info here: https://github.com/ImageMagick/ImageMagick/issues/396  
 
+Sometimes images are garbled! Likely caused by older photos using less tiles than newer ones. Use streetview-dl-oldpics.php instead! ( The older version of the script ) 
+
 ## Viewers
 
 Android: Ricoh Theta App https://play.google.com/store/apps/details?id=com.theta360&hl=en&gl=US  
