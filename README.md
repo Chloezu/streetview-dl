@@ -1,8 +1,8 @@
-# streeview downloader an opensource Google Street View Equirectangular 360 Panoramic images downloader
+# streetview downloader an opensource Google Street View Equirectangular 360 Panoramic images downloader
 
 ## What it does
 
-streview-dl is a simple PHP script to download 360 panoramic equirectangular images from Google Street View.  
+streetview-dl is a simple PHP script to download 360 panoramic equirectangular images from Google Street View.  
 
 It downloads with the highest resolution/quality/zoom, the result is a 13000x6500 pixels equirectangular image.
 It also creates a smaller resize images of 8192x4096 pixels and 1300x650.  
